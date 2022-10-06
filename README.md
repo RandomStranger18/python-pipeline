@@ -31,4 +31,10 @@ Hacktoberfest is a month long event where people are awarded for contributing to
 
 Questions can be asked by raising an `Issue`.
 
+---
 
+## Thanks to the Contributors
+
+<a href="https://github.com/RandomStranger18/python-pipeline/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RandomStranger18/python-pipeline" />
+</a>
