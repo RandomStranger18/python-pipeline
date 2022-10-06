@@ -9,11 +9,11 @@
 
 <div align="center">
 
-![Issues](https://img.shields.io/github/issues/StarlordHarsh/HacktoberfestDemo)
-![Pull Requests](https://img.shields.io/github/issues-pr/StarlordHarsh/HacktoberfestDemo)
-![Forks](https://img.shields.io/github/forks/StarlordHarsh/HacktoberfestDemo)
-![Stars](https://img.shields.io/github/stars/StarlordHarsh/HacktoberfestDemo)
-![License](https://img.shields.io/github/license/StarlordHarsh/HacktoberfestDemo)
+![Issues](https://img.shields.io/github/issues/RandomStranger18/python-pipeline)
+![Pull Requests](https://img.shields.io/github/issues-pr/RandomStranger18/python-pipeline)
+![Forks](https://img.shields.io/github/forks/RandomStranger18/python-pipeline)
+![Stars](https://img.shields.io/github/stars/RandomStranger18/python-pipeline)
+![License](https://img.shields.io/github/license/RandomStranger18/python-pipeline)
 
 </div>
 
