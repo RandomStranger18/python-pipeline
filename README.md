@@ -1,4 +1,4 @@
-![image](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5cpg1J8QTBClN_waTYpP-BETTDF8chqlOZg&usqp=CAU)
 
 <p align="center">
   <a href="https://hacktoberfest.digitalocean.com/">
