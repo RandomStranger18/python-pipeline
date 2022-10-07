@@ -42,6 +42,7 @@ def binary_search(arr, x):
     
     return -1
  
+arr.sort()
 
 opt = input("1. Recursvie \n2. Iterative-")
 arr = list(input("Enter no. with spaces-").split(' '))
